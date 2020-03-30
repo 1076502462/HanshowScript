@@ -1,3 +1,1 @@
-嵌入式脚本
-
-Hanshow嵌入式测试脚本
+hello world
